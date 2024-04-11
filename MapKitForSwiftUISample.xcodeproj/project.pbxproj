@@ -11,6 +11,7 @@
 		984AEBF22BC7B625001A747C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 984AEBF12BC7B625001A747C /* ContentView.swift */; };
 		984AEBF42BC7B627001A747C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 984AEBF32BC7B627001A747C /* Assets.xcassets */; };
 		984AEBF72BC7B627001A747C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 984AEBF62BC7B627001A747C /* Preview Assets.xcassets */; };
+		984AEBFE2BC7BA5F001A747C /* BeantownButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 984AEBFD2BC7BA5F001A747C /* BeantownButtons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		984AEBF12BC7B625001A747C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		984AEBF32BC7B627001A747C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		984AEBF62BC7B627001A747C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		984AEBFD2BC7BA5F001A747C /* BeantownButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeantownButtons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				984AEBEF2BC7B625001A747C /* MapKitForSwiftUISampleApp.swift */,
 				984AEBF12BC7B625001A747C /* ContentView.swift */,
+				984AEBFD2BC7BA5F001A747C /* BeantownButtons.swift */,
 				984AEBF32BC7B627001A747C /* Assets.xcassets */,
 				984AEBF52BC7B627001A747C /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				984AEBFE2BC7BA5F001A747C /* BeantownButtons.swift in Sources */,
 				984AEBF22BC7B625001A747C /* ContentView.swift in Sources */,
 				984AEBF02BC7B625001A747C /* MapKitForSwiftUISampleApp.swift in Sources */,
 			);
